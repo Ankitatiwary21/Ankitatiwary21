@@ -84,10 +84,18 @@
 
 ## 🎥 Featured YouTube Videos
 
-[![Video 1](https://img.youtube.com/vi/0FfFRm7seF4/hqdefault.jpg)](https://youtu.be/0FfFRm7seF4)
-[![Video 2](https://img.youtube.com/vi/mWNF3oeHY_A/hqdefault.jpg)](https://youtu.be/mWNF3oeHY_A)
-[![Video 3](https://img.youtube.com/vi/EpztAdNy-wc/hqdefault.jpg)](https://youtu.be/EpztAdNy-wc)
-[![Video 4](https://img.youtube.com/vi/PyRU9DMMeE4/hqdefault.jpg)](https://youtu.be/PyRU9DMMeE4)
+**1. Intersection of Two Arrays with Duplicate Elements**  
+[![Intersection of Two Arrays](https://img.youtube.com/vi/mWNF3oeHY_A/hqdefault.jpg)](https://youtu.be/mWNF3oeHY_A?si=aOOHb8eFXCA-eass)
+
+**2. Count All Triplets with Given Sum in Sorted Array**  
+[![Triplet Sum](https://img.youtube.com/vi/0FfFRm7seF4/hqdefault.jpg)](https://youtu.be/0FfFRm7seF4?si=C2ZgNiygchWXN3P0)
+
+**3. Print Anagrams Together**  
+[![Print Anagrams](https://img.youtube.com/vi/EpztAdNy-wc/hqdefault.jpg)](https://youtu.be/EpztAdNy-wc?si=rva7TRkXhdri_GqD)
+
+**4. Longest Subarray with Sum K**  
+[![Longest Subarray](https://img.youtube.com/vi/PyRU9DMMeE4/hqdefault.jpg)](https://youtu.be/PyRU9DMMeE4?si=QsqaXoIIo0v_xg-G)
+
 
 ---
 
