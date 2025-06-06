@@ -82,6 +82,15 @@
 
 ---
 
+## 🎥 Featured YouTube Videos
+
+[![Video 1](https://img.youtube.com/vi/0FfFRm7seF4/hqdefault.jpg)](https://youtu.be/0FfFRm7seF4)
+[![Video 2](https://img.youtube.com/vi/mWNF3oeHY_A/hqdefault.jpg)](https://youtu.be/mWNF3oeHY_A)
+[![Video 3](https://img.youtube.com/vi/EpztAdNy-wc/hqdefault.jpg)](https://youtu.be/EpztAdNy-wc)
+[![Video 4](https://img.youtube.com/vi/PyRU9DMMeE4/hqdefault.jpg)](https://youtu.be/PyRU9DMMeE4)
+
+---
+
 ## ⚡ Fun Fact
 I think I’m funny... especially when debugging at 2 AM 😄
 
