@@ -121,9 +121,6 @@ I’m a Computer Science graduate who enjoys **building, experimenting, and lear
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ankitatiwary21\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
 
 ---
 
